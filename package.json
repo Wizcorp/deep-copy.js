@@ -1,0 +1,25 @@
+{
+	"name": "wizcorp-deep-copy.js",
+	"version": "0.1.0",
+	"description": "Perform deep copies of javascript objects",
+	"author": "Wizcorp, Inc. <info@wizcorp.jp>",
+	"dependencies": {},
+	"devDependencies": {
+		"jshint": "*",
+		"mocha": "*"
+	},
+	"scripts": {
+		"test": "./node_modules/.bin/mocha test"
+	},
+	"bugs" : {
+		"url" : "http://github.com/Wizcorp/deep-copy.js/issues"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "https://github.com/Wizcorp/deep-copy.js/raw/master/LICENSE"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Wizcorp/deep-copy.js.git"
+	}
+}

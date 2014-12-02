@@ -1,0 +1,10 @@
+{
+	"name": "wizcorp-deep-copy.js",
+	"repo": "Wizcorp/deep-copy.js",
+	"version": "0.1.0",
+	"description": "Perform deep copies of javascript objects",
+	"dependencies": {},
+	"scripts": [
+		"index.js"
+	]
+}
